@@ -1,5 +1,5 @@
-//require modules
-const fs = require('fs');
+//require modules. We dont need the fs module quite yet
+//const fs = require('fs');
 const https = require('https');
 
 function getAndPrintHTML () {
